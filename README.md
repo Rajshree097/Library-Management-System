@@ -2,4 +2,6 @@
 Tech stacks used:
 HTML
 CSS
-Javascript
+Javascript,
+Bootstrap
+
